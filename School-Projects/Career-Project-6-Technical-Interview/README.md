@@ -10,7 +10,8 @@ This project simulates a real-world technical interview for a Data Science posit
 
 ## Assessment Summary
 
-**Format:** Live technical interview (coding + verbal)  
+**Format:** Live technical interview (coding + verbal)
+
 **Evaluator Feedback:**
 - Strong Python skills and technical knowledge
 - Excellent performance on the hard coding section
@@ -50,3 +51,5 @@ This project simulates a real-world technical interview for a Data Science posit
 - [Project Notebook](DSTech1_student.ipynb)
 
 ---
+
+[⬅️ Back to Main README](../../README.md)

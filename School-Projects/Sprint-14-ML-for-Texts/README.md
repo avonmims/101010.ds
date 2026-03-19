@@ -1,4 +1,4 @@
-# Sprint 14: ML for Texts – Exploring NLP for Movie Review Classification
+# Natural Language Processing for Movie Review Classification
 
 ---
 
@@ -40,4 +40,4 @@ The project demonstrated that even simple models, when paired with effective tex
 
 ---
 
-[⬅️ Back to Main README](../../README.md)
+[⬅️ Back to Directory](../../README.md)

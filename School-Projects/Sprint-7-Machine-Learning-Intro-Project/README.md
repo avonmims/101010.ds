@@ -1,10 +1,10 @@
-# Sprint 7: Machine Learning Intro Project
+# Machine Learning for Personalized Cell Plan Recommendations
 
 ---
 
 ## Project Overview
 
-This project served as an introduction to machine learning, focusing on building and evaluating simple classification models. The primary objective was to predict which new plan subscribers would choose the "Ultra" plan based on their usage patterns.
+This project served as an introduction to machine learning, focusing on building and evaluating simple classification models. The primary objective was to predict which new plan subscribers would choose based on their usage patterns.
 
 ---
 
@@ -36,4 +36,4 @@ The project demonstrated the effectiveness of basic machine learning techniques 
 
 ---
 
-[⬅️ Back to Main README](../../README.md)
+[⬅️ Back to Directory](../../README.md)

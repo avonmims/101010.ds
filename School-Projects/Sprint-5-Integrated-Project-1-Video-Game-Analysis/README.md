@@ -1,4 +1,4 @@
-# Sprint 5: Integrated Project 1 – Video Game Analysis
+# Video Game Market Analysis (1980-2016)
 
 ---
 
@@ -40,4 +40,4 @@ The analysis revealed significant differences in game popularity and sales perfo
 
 ---
 
-[⬅️ Back to Main README](../../README.md)
+[⬅️ Back to Directory](../../README.md)

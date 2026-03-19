@@ -1,4 +1,4 @@
-# Sprint 3: Statistical Data Analysis – Surf vs. Ultimate
+# Telecommunications Statistical Data Analysis: Surf vs Ultimate
 
 ---
 
@@ -40,4 +40,4 @@ The analysis revealed clear differences in data usage patterns between the two p
 
 ---
 
-[⬅️ Back to Main README](../../README.md)
+[⬅️ Back to Directory](../../README.md)

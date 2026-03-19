@@ -1,4 +1,4 @@
-# Sprint 10: Integrated Project 2 – Gold Recovery Prediction
+# Gold Purification Yield Prediction & Process Optimization
 
 ---
 
@@ -47,4 +47,4 @@ Through a combination of domain learning and technical analysis, the project pro
 
 ---
 
-[⬅️ Back to Main README](../../README.md)
+[⬅️ Back to Directory](../../README.md)

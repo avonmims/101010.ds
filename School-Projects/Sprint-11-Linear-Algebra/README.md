@@ -1,4 +1,4 @@
-# Sprint 11: Linear Algebra – Matrix Obfuscation Exploration
+# Matrix Obfuscation - Data Encryption Using Linear Algebra
 
 ---
 
@@ -39,4 +39,4 @@ The project provided valuable insights into the power of linear algebra for data
 
 ---
 
-[⬅️ Back to Main README](../../README.md)
+[⬅️ Back to Directory](../../README.md)

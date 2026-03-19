@@ -1,4 +1,4 @@
-# Sprint 17: Customer Churn Prediction – Ensemble Modeling for Telecom
+# Customer Churn Prediction & Retention Strategy
 
 ---
 
@@ -47,4 +47,4 @@ The solution enables proactive identification and retention of high-risk custome
 
 ---
 
-[⬅️ Back to Main README](../../README.md)
+[⬅️ Back to Directory](../../README.md)

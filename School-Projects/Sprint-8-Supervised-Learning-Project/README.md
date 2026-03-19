@@ -1,4 +1,4 @@
-# Sprint 8: Supervised Learning Project
+# Bank Customer Churn Prediction Using Binary Classification
 
 ---
 
@@ -42,4 +42,4 @@ These results indicate the model is effective at distinguishing between customer
 
 ---
 
-[⬅️ Back to Main README](../../README.md)
+[⬅️ Back to Directory](../../README.md)

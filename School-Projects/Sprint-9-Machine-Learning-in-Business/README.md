@@ -1,4 +1,4 @@
-# Sprint 9: Machine Learning in Business
+# Machine Learning for Oil Well Profitability & Risk Assessment
 
 ---
 
@@ -41,4 +41,4 @@ The analysis revealed that while some regions offered higher potential profits, 
 
 ---
 
-[⬅️ Back to Main README](../../README.md)
+[⬅️ Back to Directory](../../README.md)

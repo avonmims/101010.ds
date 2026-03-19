@@ -1,4 +1,4 @@
-# Sprint 15: Computer Vision – Age Estimation from Facial Images
+# Computer Vision – Age Estimation from Facial Images
 
 ---
 
@@ -37,4 +37,4 @@ By automating age estimation, businesses can streamline compliance with age-rest
 
 ---
 
-[⬅️ Back to Main README](../../README.md)
+[⬅️ Back to Directory](../../README.md)

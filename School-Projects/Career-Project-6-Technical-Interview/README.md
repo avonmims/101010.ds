@@ -1,4 +1,4 @@
-# Career Project 6: Technical Interview
+# Mock Technical Interview
 
 ---
 
@@ -52,4 +52,4 @@ This project simulates a real-world technical interview for a Data Science posit
 
 ---
 
-[⬅️ Back to Main README](../../README.md)
+[⬅️ Back to Directory](../../README.md)

@@ -1,4 +1,4 @@
-# Sprint 13: Time Series – Taxi Demand Forecasting
+# Time Series Forecasting for Airport Taxi Demand
 
 ---
 
@@ -46,4 +46,4 @@ By accurately forecasting hourly taxi demand, Sweet Lift Taxi can better allocat
 
 ---
 
-[⬅️ Back to Main README](../../README.md)
+[⬅️ Back to Directory](../../README.md)

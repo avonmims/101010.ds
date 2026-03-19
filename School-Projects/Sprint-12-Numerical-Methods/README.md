@@ -1,4 +1,4 @@
-# Sprint 12: Numerical Methods – Used Car Price Prediction
+# Used Car Price Prediction with Machine Learning
 
 ---
 
@@ -47,4 +47,4 @@ The best-performing model, LightGBM, achieved the highest accuracy and fastest p
 
 ---
 
-[⬅️ Back to Main README](../../README.md)
+[⬅️ Back to Directory](../../README.md)

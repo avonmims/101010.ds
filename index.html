@@ -1,84 +1,70 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="portfolio_style.css"></link>
-    <title>My Portfolio</title>
-    <style>
-        body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
-        header { background: #3b3b3b; color: #fff; padding: 20px 0; }
-        nav { margin-top: 10px; }
-        nav a { color: #fff; margin: 0 15px; text-decoration: none; font-weight: bold; }
-        .hero { background: #353535; padding: 60px 20px; text-align: center; }
-        .section { padding: 40px 20px; max-width: 900px; margin: 0 auto; }
-        h2 { color: #ffffff; }
-        ul.skills { list-style: none; padding: 0; }
-        ul.skills li { background: #e0e0e0; display: inline-block; margin: 8px 10px; padding: 8px 16px; border-radius: 20px; }
-    </style>
-</head>
-<body>
-    <header>
-        <div style="max-width:900px;margin:0 auto;display:flex;justify-content:space-between;align-items:center;">
-            <h1>Avon Mims</h1>
-            <nav>
-                <a href="#hero">Home</a>
-                <a href="#about">About Me</a>
-                <a href="#skills">Skills</a>
-                <a href="#resume">Resume</a>
-            </nav>
+
+<html lang="en"> 
+    <head>
+        <title>Avon Mims - Data Scientist</title>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+        <link rel="stylesheet" href="assets/css/main.css" />
+        <noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+    </head>
+    <body class="is_preload">
+    
+        <!-- wrapper -->
+        <div id="wrapper">
+
+            <!-- header -->
+            <header id="header">
+                <div class="logo">
+                    <span class="icon fa-gem"></span>
+                </div>
+                <div class="content">
+                    <div class="inner">
+                        <h1>Avon Mims</h1>
+                        <h3>Data Scientist</h3>
+                        <p>Welcome to my portfolio, hosted on GitHub Pages. Here, you'll find a collection of my projects,<br />
+                        skills, and experiences as I continue to grow. Feel free to explore and connect with me.</p>
+                    </div>
+                </div>
+                <nav>
+                    <ul>
+                        <li><a href="#intro">Intro</a></li>
+                        <li><a href="#projects">Projects</a></li>
+                        <li><a href="#skills">Skills</a></li>
+                        <li><a href="#experience">Experience</a></li>
+                        <li><a href="#contact">Contact</a></li>
+                    </ul>
+                </nav>
+            </header>
+
+            <!-- main -->
+            <div id="main">
+
+                <!-- intro -->
+                <article id="intro">
+                    <h2 class="major">Intro</h2>
+                    <span class="image main"><img src="images/pic01.jpg" alt="" /></span>
+                    <p>My name is Avon, I'm a Data Scientist who actually enjoys the process of cleaning datasets. I also really enjoy branching out into new areas such as discord bots, web design, and game modding.</p>
+                    <p>I studied Data Science under TripleTen, where I developed a strong foundation in data analysis, machine learning, and statistical testing. My philosophy is doing the most work in the least amount of code, keeping things simple and effective.</p>
+                    <p>All of my projects <a href="https://github.com/avonmims/TripleTen_Data_Science">can be found here</a> - a fully interactable GitHub repository with a table of contents for easy navigation.</p>
+                </article>
+            </div>
+
+            <footer id="footer">
+                <p class="copyright">Fun Fact: Saturn is the only planet in our solar system that could float in water.</p>
+            </footer>
+
         </div>
-    </header>
-    <section class="hero" id="hero">
-        <h2>Welcome to My Portfolio</h2>
-        <p>I'm Avon, a passionate data scientist eager to solve real-world problems with data.</p>
-    </section>
-    <section class="section" id="about">
-        <h2>About Me</h2>
-        <p>Hello! I'm Avon, a data science enthusiast with a love for uncovering insights from data and building impactful solutions. I enjoy working with data, learning new technologies, and collaborating on exciting projects.</p>
-    </section>
-    <section class="section" id="skills">
-        <h2>Skills</h2>
-        <ul class="skills">
-            <li>Python</li>
-            <li>Pandas</li>
-            <li>Plotly</li>
-            <li>Matplotlib</li>
-            <li>Seaborn</li>
-            <li>NumPy</li>
-            <li>Scikit-learn</li>
-            <li>TensorFlow</li>
-            <li>Data Visualization</li>
-            <li>Machine Learning</li>
-            <li>Statistics</li>
-            <li>SQL</li>
-        </ul>
-    </section>
-    <section class="section" id="resume">
-        <h2>Resume</h2>
-        <h3>Education</h3>
-        <ul>
-            <li><strong>Program:</strong> TripleTen Data Science</li>
-            <li><strong>Courses:</strong> EDA, SDA, DevTools</li>
-        </ul>
-        <h3>Technical Skills</h3>
-        <ul>
-            <li><strong>Languages:</strong> Python, HTML, CSS, JavaScript, SQL</li>
-            <li><strong>Technologies:</strong> Git</li>
-            <li><strong>Tools:</strong> Jupyter</li>
-        </ul>
-        <h3>Projects</h3>
-        <ul>
-            <li><strong><a href="School-Projects/Sprint-3-Statistical-Data-Analysis-Surf-Vs-Ultimate/Statistical-Data-Analysis-Surf-Vs-Ultimate.html" target="_blank">Telecommunications Statistical Data Analysis: Surf vs Ultimate</a></strong> An in depth analysis on two cell phone plans, Surf and Ultimate, with the goal of observing revenue and possible behavioral patterns in customers. A Jupyter file converted to HTML for display purposes. This was one of my first projects in the data science program, and the very first project I would perform hypothesis testing.</li>
-            <li><strong><a href="School-Projects/Sprint-5-Integrated-Project-1-Video-Game-Analysis/Sprint-5-Video-Game-Analysis.html" target="_blank">Video Game Market Analysis (1980-2016)</a></strong> A financial analysis on videogame titles and their sales performance. Looking through multiple lenses to see the performance by genre, rating, console, and country.</li>
-            <li><strong><a href="School-Projects/Sprint-7-Machine-Learning-Intro-Project/Sprint-7-Machine-Learning-Intro-Project.html" target="_blank">Machine Learning for Personalized Cell Plan Recommendations</a></strong> Utilizing two cell phone plans to train a binary classification model. This model suggests the optimal plan based on user behavior, aiming for an accuracy exceeding 75% while outperforming baseline naive predictions.</li>
-            <li><strong><a href="School-Projects/Sprint-8-Supervised-Learning-Project/Sprint-8-Supervised-Learning-Project.html" target="_blank">Bank Customer Churn Prediction Using Machine Learning</a></strong> This project is a binary classification machine learning task designed to predict whether bank customers will stay or leave (churn) based on their credit score, geography, age, tenure, balance, and product usage. Model performance was measured using the F1 score, with a target threshold of 0.59 on the test set.</li>
-            <li><strong><a href="School-Projects/Sprint-9-Machine-Learning-in-Business/machine_learning_in_business.html" target="_blank">Machine Learning for Oil Well Profitability & Risk Assessment</a></strong> Developed a predictive analytics solution to optimize oil well selection across multiple regions using linear regression. I performed thorough EDA and feature engineering on real-world geospatial datasets, built and validated regression models to forecast oil reserves, calculated break-even yields, and implemented profit estimation logic. Bootstrapping was applied to quantify profit distribution, risk of losses, and confidence intervals. The project delivered actionable recommendations based on statistical and business criteria (risk < 2.5%), automating region selection for safe, profitable investment. Tools used include Python, Pandas, scikit-learn, NumPy, and Matplotlib.</li>
-            <li><strong><a href="School-Projects/Sprint-10-Integrated-Project-2/ip2_display.html" target="_blank">Gold Purification Yield Prediction & Process Optimization</a></strong> Led a data-driven optimization project for gold purification. Leveraged advanced data preprocessing, feature engineering, and machine learning (Random Forest, Linear Regression) to forecast output yields and validate process efficiency. Conducted rigorous data validation, handled missing values, and implemented custom sMAPE metrics for model evaluation. Delivered actionable insights for maximizing gold yield and minimizing operational risk, outperforming baseline models with (< 3.2%) error on unseen data. Tools used include Python, Pandas, scikit-learn, NumPy, and Matplotlib.</li>
-            <li><strong><a href="School-Projects/Sprint-12-Numerical-Methods/s12_display.html" target="_blank">Used Car Price Prediction with Machine Learning</a></strong> For Rusty Bargain, I developed a machine learning solution to estimate used car market values using historical data (technical specs, trim, price). The project involved thorough data cleaning, feature engineering, and handling missing values. I trained and compared several models—Linear Regression, Random Forest, LightGBM, and CatBoost—evaluating them on prediction quality (RMSE), speed, and training time. LightGBM delivered the best results in both accuracy and efficiency, making it the top recommendation for real-time price predictions in the app.</li>
-            <li><strong><a href="School-Projects/Sprint-13-Time-Series/s13_display.html" target="_blank">Time Series Forecasting for Taxi Demand</a></strong> In this project, I built a predictive model for Sweet Lift Taxi to forecast hourly taxi orders at airports. Using historical data, I performed data resampling, exploratory analysis, and trained multiple models—including Linear Regression, AutoRegression, ARIMA, and SARIMA. After tuning hyperparameters, the SARIMA model achieved an RMSE below the target threshold of 48, enabling more accurate demand predictions during peak hours. This solution helps optimize driver allocation and improve service efficiency.</li>
-            <li><strong><a href="School-Projects/Sprint-17-Final-Project/s17_display.html" target="_blank">Customer Churn Prediction & Retention Strategy</a></strong> Led a data-driven project to predict customer churn for a telecom provider. Utilized advanced data preprocessing, feature engineering, and machine learning (XGBoost, CatBoost, Ensemble Voting) to identify at-risk customers and optimize retention strategies. Tackled class imbalance with custom weighting and compared multiple balancing techniques. Achieved robust model performance with an F1 Score of 0.64 and ROC-AUC of 0.85 on unseen data.</li>
-        </ul>
-    </section>
-</body>
+
+        <!-- background -->
+        <div id="bg"></div>
+
+        <!-- scripts -->
+        <script src="assets/js/jquery.min.js"></script>
+        <script src="assets/js/browser.min.js"></script>
+        <script src="assets/js/breakpoints.min.js"></script>
+        <script src="assets/js/util.js"></script>
+        <script src="assets/js/main.js"></script>
+
+    </body>
 </html>

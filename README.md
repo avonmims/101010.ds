@@ -2,7 +2,7 @@
 ### This page is a fully functioning table of contents, where each link leads to a more in-depth project summary including goals and outcomes.
 ### At the bottom of each project summary page is a button to return to this table for seemless navigation.
 
-### My personal website [can be found here](https://avonmims.github.io/101010.ds/#)
+### My personal website [can be found here](https://avonmims.github.io/101010.ds/)
 
 ---
 

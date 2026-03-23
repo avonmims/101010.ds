@@ -1,4 +1,8 @@
-### *This is a landing page for my full portfolio containing all projects completed during my time with TripleTen as a Data Science student. Each link will redirect you to a more in-depth project description, with links at the bottom to view the associated work, or to return to this page.*
+### Welcome to my school projects repository, which has turned into a project itself!
+### This page is a fully functioning table of contents, where each link leads to a more in-depth project summary including goals and outcomes.
+### At the bottom of each project summary page is a button to return to this table for seemless navigation.
+
+### My personal website [can be found here](https://avonmims.github.io/TripleTen_Data_Science/#)
 
 ---
 

@@ -11,7 +11,7 @@
 | [Video Game Market Analysis (1980-2016)](School-Projects/Sprint-5-Integrated-Project-1-Video-Game-Analysis/README.md) | Analyzes video game sales data to uncover trends and patterns in global and regional markets, providing insights for publishers and marketers. |
 | [Machine Learning for Personalized Cell Plan Recommendations](School-Projects/Sprint-7-Machine-Learning-Intro-Project/README.md) | Introduction to machine learning, building and evaluating simple classification models to predict subscriber plan choices. |
 | [Bank Customer Churn Prediction Using Binary Classification](School-Projects/Sprint-8-Supervised-Learning-Project/README.md) | Builds and evaluates supervised learning models to predict customer churn, including data preprocessing, feature engineering, and model selection. |
-| [Bank Customer Churn Prediction Using Binary Classification](School-Projects/Sprint-9-Machine-Learning-in-Business/README.md) | Applies machine learning to optimize oil well development, including EDA, feature engineering, regression modeling, and risk assessment. |
+| [Machine Learning for Oil Well Profitability & Risk Assessment](School-Projects/Sprint-9-Machine-Learning-in-Business/README.md) | Applies machine learning to optimize oil well development, including EDA, feature engineering, regression modeling, and risk assessment. |
 | [Gold Purification Yield Prediction & Process Optimization](School-Projects/Sprint-10-Integrated-Project-2/README.md) | Predicts gold recovery rates at a purification plant using real industrial data, focusing on process understanding and regression modeling. |
 | [Matrix Obfuscation - Data Encryption Using Linear Algebra](School-Projects/Sprint-11-Linear-Algebra/README.md) | Explores linear algebra concepts, focusing on matrix obfuscation techniques for data transformation and encryption. |
 | [Used Car Price Prediction with Machine Learning](School-Projects/Sprint-12-Numerical-Methods/README.md) | Builds predictive models to estimate used car market value, emphasizing data cleaning, feature engineering, and regression algorithms. |
@@ -22,4 +22,6 @@
 
 ---
 
-### *currently working on a website to better display these entries, this page will be updated with the link when available*
+### *E-mail is the best way to reach me:* avonmims@gmail.com
+
+### Thanks for visitting!

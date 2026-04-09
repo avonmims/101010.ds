@@ -38,7 +38,6 @@ These results indicate the model is effective at distinguishing between customer
 ## Resources
 
 - [Project Notebook](Sprint-8-Supervised-Learning-Project.ipynb)
-- [Project Report (HTML)](https://avonmims.github.io/TripleTen_Data_Science/School-Projects/Sprint-8-Supervised-Learning-Project/Sprint-8-Supervised-Learning-Project.html)
 
 ---
 

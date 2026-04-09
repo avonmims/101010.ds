@@ -43,7 +43,6 @@ The solution enables proactive identification and retention of high-risk custome
 ## Resources
 
 - [Project Notebook](s17_solution.ipynb)
-- [Project Report (HTML)](https://avonmims.github.io/TripleTen_Data_Science/School-Projects/Sprint-17-Final-Project/s17_display.html)
 
 ---
 

@@ -32,7 +32,6 @@ The project demonstrated the effectiveness of basic machine learning techniques 
 ## Resources
 
 - [Project Notebook](Sprint-7-Machine-Learning-Intro-Project.ipynb)
-- [Project Report (HTML)](https://avonmims.github.io/TripleTen_Data_Science/School-Projects/Sprint-7-Machine-Learning-Intro-Project/Sprint-7-Machine-Learning-Intro-Project.html)
 
 ---
 

@@ -43,7 +43,6 @@ Through a combination of domain learning and technical analysis, the project pro
 ## Resources
 
 - [Project Notebook](integrated_project_2.ipynb)
-- [Project Report (HTML)](https://avonmims.github.io/TripleTen_Data_Science/School-Projects/Sprint-10-Integrated-Project-2/ip2_display.html)
 
 ---
 

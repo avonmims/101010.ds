@@ -37,7 +37,6 @@ The analysis revealed that while some regions offered higher potential profits, 
 ## Resources
 
 - [Project Notebook](machine_learning_in_business.ipynb)
-- [Project Report (HTML)](https://avonmims.github.io/TripleTen_Data_Science/School-Projects/Sprint-9-Machine-Learning-in-Business/machine_learning_in_business.html)
 
 ---
 

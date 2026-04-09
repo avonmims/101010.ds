@@ -36,7 +36,6 @@ The analysis revealed significant differences in game popularity and sales perfo
 ## Resources
 
 - [Project Notebook](Sprint-5-Video-Game-Analysis.ipynb)
-- [Project Report (HTML)](https://avonmims.github.io/TripleTen_Data_Science/School-Projects/Sprint-5-Integrated-Project-1-Video-Game-Analysis/Sprint-5-Video-Game-Analysis.html)
 
 ---
 

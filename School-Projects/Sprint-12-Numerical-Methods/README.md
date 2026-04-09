@@ -43,7 +43,6 @@ The best-performing model, LightGBM, achieved the highest accuracy and fastest p
 ## Resources
 
 - [Project Notebook](s12_numerical_methods.ipynb)
-- [Project Report (HTML)](https://avonmims.github.io/TripleTen_Data_Science/School-Projects/Sprint-12-Numerical-Methods/s12_display.html)
 
 ---
 

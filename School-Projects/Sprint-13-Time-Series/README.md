@@ -42,7 +42,6 @@ By accurately forecasting hourly taxi demand, Sweet Lift Taxi can better allocat
 ## Resources
 
 - [Project Notebook](s13_time_series.ipynb)
-- [Project Report (HTML)](https://avonmims.github.io/TripleTen_Data_Science/School-Projects/Sprint-13-Time-Series/s13_display.html)
 
 ---
 
